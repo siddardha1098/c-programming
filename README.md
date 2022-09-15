@@ -165,8 +165,18 @@
       
 6.Write a program in C to store n elements in an array and print the elements using pointers. 
 
+7. Mr. Johnson would like to know the grades of  his students received on a test. He has n  students who took the test. He would like to enter the student number and the marks  for the test for each student using structure. Develop the solution to print out each student’s student number& number grade. His grading scale is as follows: 90–100 is an A, 78–89 is a B, 65– 77 is a C, 50–64 is a D, and below 50 is an F.
+      Test Cases:
+        1. No.Student :4 (Any details of student Number , Marks )
+        2. No.Student: 1( 2004, -28)
+        3. No.Student: A
+        4. No.Student: 1( 2005, A)
 
-
+15/09/2022
+  1.	Write a program to read name and roll number of n number of students from user and store them in a file.
+  2.	Write a C program to display the contents of a file.
+  3.	Write a C program to copy the contents of one file to another.
+  4.	Write a C program to merge two files into a third file.
 
 1.	Lab Schedule should have the Room Number of the lab where the lab examination is to be conducted, the  timing of batches and the register number of students in those batches.
 2.	Lab schedule is to be approved by the HoD and should be informed to the students well in advance. Rubrics  and the list of experiments are also to be approved by  HoD. Students should be aware of Rubrics before they start the exam. 
