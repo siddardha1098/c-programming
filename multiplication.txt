@@ -2,7 +2,7 @@
 int main() {
     double n, m, product;
     printf("Enter two numbers: ");
-    scanf("%lf %lf", &a, &b);  
+    scanf("%lf %lf", &n, &m);  
     product = a * 
     printf("Product = %.2lf", product);
     return 0;
